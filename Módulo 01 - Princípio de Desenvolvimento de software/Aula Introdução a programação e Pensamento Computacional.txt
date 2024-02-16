@@ -1,0 +1,33 @@
+Na aula de Introdução a programação e Pensamento Computacional, aprendemos os seguintes itens:
+* Pensamento computacional
+- Apresentação
+- Introdução
+- Habilidade complementares
+- Pilares: Decomposição, Padrões, Abstração, Algoritmos
+- Estudos de caso conceitual: perdido
+- Estudo de caso aplicado: Soma de um intervalo
+- Estudo de caso aplicado: Adivinhe um número
+
+* Introdução a lógica da programação
+- O que é lógica?
+- Técnicas de lógica de programação
+
+* Fundamentos de algoritmos
+- Tipologia e variáveis
+- Instruções primitivas
+- Estruturas condicionais e operadores
+- Estruturas de repetição
+- Vetores e matrizes
+- O que são funções?
+- Instruções de entrada/saída
+
+* Linguageus de programação 
+- Introdução à linguagens de programação
+- Como um computador entende o programa?
+- Características de um programa
+- Análises de código
+- Paradigmas de programação
+
+* Primeiro contato com a programação
+- Algoritmos em portugol
+[Link para acessar o Portugol Webstudio](https://dgadelha.github.io/Portugol-Webstudio/)
