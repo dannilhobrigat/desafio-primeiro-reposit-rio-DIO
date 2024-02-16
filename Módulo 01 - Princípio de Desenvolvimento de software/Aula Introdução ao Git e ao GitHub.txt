@@ -1,26 +1,28 @@
+#INTRODUÇÃO AO GIT E AO GITHUB
+
 Na aula de Introdução ao Git e ao GitHub, iremos aprender mais sobre a utilização do Git e como criar um novo repositório no GitHub
 
-* Introdução ao Git
+ ● Introdução ao Git
 - Entendendo o que é Git e sua importância
 
-*Navegação via command line interface e instalação
+ ● Navegação via command line interface e instalação
 - Comandos básicos para um bom desempenho no terminal
 - Realizando a instalação do GIT
 [Download do Git](https://git-scm.com/downloads)
 
-*Entendendo como o Git funciona por baixo dos panos
+ ● Entendendo como o Git funciona por baixo dos panos
 - Tópicos fundamentais para entender o funcionamento do Git
 - Objetos internos do Git
 - Chave SSH e Token
 
-* Primeiros comandos com Git
+ ● Primeiros comandos com Git
 - Iniciando o Git e criando um commit
 
-*Ciclo de vida dos arquivos no Git
+ ● Ciclo de vida dos arquivos no Git
 - Passo a passo no ciclo de vida
 
-* Introduação ao GitHub
+ ● Introduação ao GitHub
 - Trabalhando com o GitHub
 
-* Resolvendo conflitos
+ ● Resolvendo conflitos
 - Como os conflitos acontecem no GitHub e como resolvê-los
