@@ -1,1 +1,3 @@
+#PREPARE-SE PARA A JORNADA
+
 Nas aulas desse módulo, aprendemos e conhecemos as oportunidades da DIO, a ser protagonista neste bootcamp e as boas vindas ao Impulso Javascript Evolution.
