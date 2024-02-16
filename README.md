@@ -1,2 +1,2 @@
-# desafio-primeiro-reposit-rio-DIO
+# Primeiro repositório - Desafio DIO.
 Criando meu primeiro repositório - Desafio DIO
